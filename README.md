@@ -79,7 +79,7 @@ The last couple of lines here tell us that Spring has started. Spring Boot’s e
 
 -   Luis Andres Castillo Ensinas - [lcastienc](https://github.com/lcastienc)
 
-## License
+## License 🟢
 
 The Spring Boot is an open-source micro framework software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
