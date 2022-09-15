@@ -76,3 +76,6 @@ The last couple of lines here tell us that Spring has started. Spring Boot’s e
 -   Joel Felipe Díaz Carissimi - [joeldiazcc](https://github.com/joeldiazcc)
 
 -   Luis Andres Castillo Ensinas - [lcastienc](https://github.com/lcastienc)
+
+## NO ES VERITAT QUE SOU ELS AUTORS. NO PODEU PUBLICAR, COM A VOSTRE, MATERIAL D'ALTRES PERSONES - [Spring](https://spring.io/quickstart)
+
