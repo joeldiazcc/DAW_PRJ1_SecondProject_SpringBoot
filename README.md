@@ -71,11 +71,13 @@ The last couple of lines here tell us that Spring has started. Spring Boot’s e
 
 <img src="https://spring.io/images/quick-img3-afa0a1fe446db8e3c8c7a8d9ca532d23.png">
 
-## Authors✒️
+## Repository Authors✒️
 
 -   Joel Felipe Díaz Carissimi - [joeldiazcc](https://github.com/joeldiazcc)
 
 -   Luis Andres Castillo Ensinas - [lcastienc](https://github.com/lcastienc)
 
-## NO ES VERITAT QUE SOU ELS AUTORS. NO PODEU PUBLICAR, COM A VOSTRE, MATERIAL D'ALTRES PERSONES - [Spring](https://spring.io/quickstart)
+## License
+
+The Spring Boot is an open-source micro framework software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
