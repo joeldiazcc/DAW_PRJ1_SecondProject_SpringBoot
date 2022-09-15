@@ -80,5 +80,6 @@ The last couple of lines here tell us that Spring has started. Spring Boot’s e
 ## License
 
 The Spring Boot is an open-source micro framework software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
 Documentation from https://spring.io/quickstart
 
