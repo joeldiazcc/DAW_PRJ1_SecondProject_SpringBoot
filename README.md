@@ -13,7 +13,9 @@ A simple Hello World
 -  joeldiazcc -> Upload the project to GitHub and Readme.
 
 
-## Documentation 📄
+## Documentation 📄 
+
+(from https://spring.io/quickstart)
 
 ### Step 1: Start a new Spring Boot project
 Use start.spring.io to create a “web” project. In the “Dependencies” dialog search for and add the “web” dependency as shown in the screenshot. Hit the “Generate” button, download the zip, and unpack it into a folder on your computer.
@@ -80,6 +82,4 @@ The last couple of lines here tell us that Spring has started. Spring Boot’s e
 ## License
 
 The Spring Boot is an open-source micro framework software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-Documentation from https://spring.io/quickstart
 
