@@ -56,12 +56,13 @@ The @RestController annotation tells Spring that this code describes an endpoint
 Let’s build and run the program. Open a command line (or terminal) and navigate to the folder where you have the project files. We can build and run the application by issuing the following command:
 
 MacOS/Linux:
-```
-./mvnw spring-boot:run```
+
+```./mvnw spring-boot:run```
 
 Windows:
-```
-mvnw spring-boot:run```
+
+
+```mvnw spring-boot:run```
 
 You should see some output that looks very similar to this:
 <img src="https://spring.io/images/quick-img2-ac5ae88c60ffaa062234a580f9f1abc3.png">
